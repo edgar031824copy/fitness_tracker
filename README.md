@@ -1,46 +1,50 @@
-# Fitness Tracker
+# 🏋️‍♂️ Fitness Tracker
 
-A simple fitness tracking application where you can add exercises, track your progress, and view your workout history.
+A simple, lightweight fitness tracking app where you can add exercises, monitor your progress, and stay motivated with daily workout insights.
 
-## What it does
+---
 
-- Add exercises with target sets
-- Track completed sets for each exercise
-- View exercise history
-- Motivational quotes to keep you motivated
+## 🚀 Features
 
-## Tech specs
+- ✅ Add exercises with target sets
+- ✅ Track completed sets for each exercise
+- ✅ View your workout history at a glance
+- ✅ Get motivational quotes to keep you inspired
 
-- **Node.js**: v16 or higher
-- **npm**: Comes with Node.js
-- **Browser**: Modern browser (Chrome, Firefox, Safari, Edge)
+---
 
-## How to run it
+## ⚙️ Tech Stack
 
-1. Install dependencies:
+- **TypeScript**
+- **React**
+- **React Query** — for efficient data fetching & caching
+- **Material UI** — for clean, responsive UI components
+- **Node.js** — v16+ recommended
+- **Vite** — for fast local development
+
+---
+
+## 📦 How to Run
+
+1️⃣ Install dependencies:
 
 ```bash
 npm install
 ```
 
-2. Start the development server:
+2️⃣ Start the development server:
 
 ```bash
 npm run dev
 ```
 
-3. Open your browser and go to `http://localhost:5173/`
+3️⃣ Open your browser and visit: [http://localhost:5173/](http://localhost:5173/)
 
-## Other commands
+---
 
-```bash
-npm run build    # Build for production
-npm run test     # Run tests
-npm run lint     # Check code quality
-```
+## ✅ Libraries & Tools
 
-## Libraries used
-
-- **TS**
-- **ReactQuery**
-- **MaterialUI**
+- **TypeScript** — typed JavaScript for better dev experience
+- **React Query** — remote state management
+- **Material UI** — UI components & styling
+- **Vite** — modern dev server & bundler
